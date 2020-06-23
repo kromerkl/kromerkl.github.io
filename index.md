@@ -11,6 +11,7 @@ Der Charakter eines Menschen ist bestimmt von dseiner Erziehung und wird wesentl
 	* Penibel
 	* Krankhaft
 	* Juhu
+	* Hoho
 
 Der Charakter eines Menschen ist bestimmt von dseiner Erziehung und wird wesentlich durch seiner Umwelt geprägt. Dier ersten Lebensjaghre sind hierfür sehr entscheidend. Aus der Sozialisationsforschung wissen wir wie sehr bereits der Kindergarten prägt. Das Zusammenkommen und ausprobieren von Verhalten ist bereits im Kinderfgarten entscheidend. dazu gehört die Grösse der Gruppe, das soziale Milieu, die übermittelten Werte und das Engagement der Erziegerinnen.
 > Lirum Larum Löffelstiehl
