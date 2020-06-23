@@ -16,4 +16,4 @@ Der Charakter eines Menschen ist bestimmt von dseiner Erziehung und wird wesentl
 > Ene, mene...
 > Eins, zwei, drei
 
-<p><img alt="" src="https://open.hpi.de/piwik/piwik.php?idsite=1" style="border:0" /></p>
+![Einfaches Beispiel zu wiki](https://commons.wikimedia.org/wiki/File:Example_de.jpg "Beispielbild")
