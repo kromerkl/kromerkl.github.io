@@ -15,3 +15,5 @@ Der Charakter eines Menschen ist bestimmt von dseiner Erziehung und wird wesentl
 > Lirum Larum Löffelstiehl
 > Ene, mene...
 > Eins, zwei, drei
+
+<p><img alt="" src="https://open.hpi.de/piwik/piwik.php?idsite=1" style="border:0" /></p>
